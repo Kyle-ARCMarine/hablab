@@ -1,6 +1,7 @@
 # Hablab
 
-Hablab is a research tool developed by **ARC Marine Ltd.** to analyse habitat space within a 3D structure and enable ecological research using characteristic metrics for the structure.<br>
+Hablab is a research tool developed by **ARC Marine Ltd.** to analyse habitat space within a 3D structure and enable ecological research using characteristic metrics for the structure.
+
 It is released as freeware for **non-commercial academic and research use**.
 
 ## Installation
@@ -60,21 +61,20 @@ The installed Hablab application can now be launched from the search bar.
 
 ### Graphs
 
-- "Accessible volume" plots the AV against the accessing diameter.
-- "Accessible volume per accessible space" plots the AV as a fraction of total accessible volume against the accessing diameter.
-- "Accessible volume per footprint" plots the AV divided by the footprint area against the accessing diameter.
-- "Accessible volume per total space" plots the AV as a fraction of total surveyed volume against the accessing diameter.
-- "Accessible refuge volume" plots the ARV against the access class minimum, using various ratios between access class maximum and minimum.
-- "Accessible volume per exact accessing diameter" plots the negative of the gradient of AV against the accessing diameter.
-- "Mean accessing diameter over structure height" plots the mean of the maximum accessing diameter against the height above the base of the structure.
-- "Mean accessing diameter over structure depth range" plots the mean of the maximum accessing diameter against the depth below the surface of the structure.
+- **Accessible volume** plots the AV against the accessing diameter.
+- **Accessible volume per accessible space** plots the AV as a fraction of total accessible volume against the accessing diameter.
+- **Accessible volume per footprint** plots the AV divided by the footprint area against the accessing diameter.
+- **Accessible volume per total space** plots the AV as a fraction of total surveyed volume against the accessing diameter.
+- **Accessible refuge volume** plots the ARV against the access class minimum, using various ratios between access class maximum and minimum.
+- **Accessible volume per exact accessing diameter** plots the negative of the gradient of AV against the accessing diameter.
+- **Mean accessing diameter over structure height** plots the mean of the maximum accessing diameter against the height above the base of the structure.
+- **Mean accessing diameter over structure depth range** plots the mean of the maximum accessing diameter against the depth below the surface of the structure.
 
 ### File storage
 
 Hablab's results are stored in the user's home directory under `Hablab/models`. A folder is created using the name of the 3D mesh input, substituting spaces for underscores, and a copy of this mesh is saved here in the `.stl` format. Subfolders are then created using the structure type and resolution, with the results directory for a given input taking the format `Hablab/models/[Mesh name]/[Structure type]/[Resolution & mesh unit]`.
-
-- Basic results as given in the Structure Summary and Interstitial Space Summary are saved in `[Mesh name]_results.txt`.
-- Runtime results are saved as `[Mesh name]_timer.txt`.
+- `[Mesh name]_results.txt` saves basic results as given in the Structure Summary and Interstitial Space Summary.
+- `[Mesh name]_timer.txt` saves runtime results from the last run of this model.
 - `[Mesh name]_maxima.csv` lists all local maxima found in the structure, along with their positions and maximum accessing diameter.
 - `[Mesh name]_final.npy` is created to store the full structure results for the accessibility of the model; this is used with the "Skip to Results (Use Existing Data)" toggle.
 
@@ -86,3 +86,39 @@ Access class-specific results are saved in the `/Classes` subfolder.
 - `[Mesh name]_[Resolution]_all_refuges.csv` is created to hold results for all access classes identical to those displayed in the GUI's Interstitial Space Summary; this also includes the total number of independent refuge spaces found for each access class.
 
 Result graphs are saved in the `/Results` subfolder, along with `.csv` files corresponding to each graph. Only the AV against accessing diameter distribution is saved out of the AV- and ARV-based graphs, but other graphs can be recreated using this and other known and saved metrics.
+
+## License
+
+Hablab is released under the [Hablab Software License Agreement](https://github.com/Kyle-ARCMarine/hablab?tab=License-1-ov-file).
+
+**In short:**
+- Free for non-commercial research, teaching, and academic publishing  
+- Not permitted for commercial use, consultancy, or client deliverables  
+- No redistribution, modification, or incorporation into other software  
+
+For full details, see the [license file](https://github.com/Kyle-ARCMarine/hablab?tab=License-1-ov-file).  
+
+## Feedback
+
+If you have any suggestions or encounter any bugs with the application, please [open an issue](https://github.com/Kyle-ARCMarine/hablab/issues/new). As detailed by the license agreement, ARC Marine Ltd. can use any feedback to improve Hablab without obligation.
+
+For direct enquiries, contact:
+- Kyle Dearson — kyle@arcmarine.co.uk  
+- Samuel Hickling — sam.hickling@arcmarine.co.uk  
+
+## Future Development
+
+We may provide in future:  
+- **Commercial versions** of Hablab for industry and consultancy use  
+- **Open-source academic editions** for broader collaboration  
+
+If you are interested, please reach out via the contact emails listed above.  
+
+## Citation
+
+If you use Hablab in your research, please cite it as:
+> ARC Marine Ltd. *Hablab Software*, Version XXX, 2025. Available at: https://github.com/Kyle-ARCMarine/hablab. 
+
+(Replace **XXX** with the version number you used.) 
+
+We ask academic users to acknowledge use of **Hablab (ARC Marine Ltd.)** in any publications or presentations that rely on results generated by the software.  
