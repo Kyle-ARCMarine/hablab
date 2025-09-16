@@ -73,7 +73,10 @@ The installed Hablab application can now be launched from the search bar.
 
 Hablab's results are stored in the user's home directory under `Hablab/models`. A folder is created using the name of the 3D mesh input, substituting spaces for underscores, and a copy of this mesh is saved here in the `.stl` format. Subfolders are then created using the structure type and resolution, with the results directory for a given input taking the format `Hablab/models/[Mesh name]/[Structure type]/[Resolution & mesh unit]`.
 
-Basic results are saved in `[Mesh name]_results.txt` and runtime results are saved as `[Mesh name]_timer.txt`, while a `[Mesh name]_final.npy` file is created to store the full structure results for the accessibility of the model; this is used with the "Skip to Results (Use Existing Data)" toggle. A separate `[Mesh name]_maxima.csv` lists all local maxima found in the structure, along with their positions and maximum accessing diameter.
+- Basic results as given in the Structure Summary and Interstitial Space Summary are saved in `[Mesh name]_results.txt`.
+- Runtime results are saved as `[Mesh name]_timer.txt`.
+- `[Mesh name]_maxima.csv` lists all local maxima found in the structure, along with their positions and maximum accessing diameter.
+- `[Mesh name]_final.npy` is created to store the full structure results for the accessibility of the model; this is used with the "Skip to Results (Use Existing Data)" toggle.
 
 A `[Mesh name]_[Structure type]_[Resolution].vtk` file is also created from the full structure results. This can be viewed using open source software such as [ParaView](https://www.paraview.org/). To do this, open the file using ParaView, click the "Apply" button under the "Properties" tab, then change the "Representation" to "Volume". A colour-coded representation of the full structure is then rendered, shading voxels according to their maximum accessing diameter.
 
