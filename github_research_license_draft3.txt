@@ -1,0 +1,113 @@
+Hablab SOFTWARE LICENSE AGREEMENT
+
+Copyright © 2025 ARC Marine Ltd. All rights reserved.
+
+1. INTRODUCTION AND ACCEPTANCE
+
+This License Agreement (“Agreement”) governs the use of the Hablab software (“Software”) developed and distributed by ARC Marine Ltd. By downloading, installing, or using the Software, the user (“User”) acknowledges and agrees to be bound by the terms of this Agreement. If you do not agree to these terms, do not install, copy, access, or use the Software.
+
+2. DEFINITIONS
+
+For purposes of this Agreement:
+
+“Academic Institution” means an accredited non-profit university, college, or research institute (including governmental or public research organizations).
+
+“Academic Use” means use of the Software by faculty, staff, or students of an Academic Institution (or by researchers at non-profit or governmental organizations) for non-commercial teaching, study, or research that is intended to result in scholarly publication or public dissemination of findings.
+
+“Non-Commercial Research” means research or experimental use undertaken with no intention of profit, product development, or commercial services. This includes personal or hobby research by individuals, and academic or scientific research conducted openly for the public benefit.
+
+“Commercial Use” means any use of the Software by or on behalf of a for-profit entity, regardless of intent or outcome. This includes internal evaluation, research (even if published), consultancy, industry reporting, or any activity that directly or indirectly supports a commercial purpose.
+
+“User” refers to any individual or organization that has lawfully obtained the Software from ARC Marine Ltd. or its authorized distribution channels under this Agreement.
+
+3. LICENSE GRANT
+
+Subject to the terms and conditions of this Agreement, ARC Marine Ltd. grants the User a personal, non-exclusive, non-transferable, revocable license to install and use the Software solely for non-commercial research and academic purposes.
+
+Permitted Users are limited to:
+
+Academic Institutions;
+
+Non-profit research organizations;
+
+Governmental or public research bodies;
+
+Individual researchers acting in a personal, non-commercial capacity.
+
+For-profit entities and commercial organizations are expressly prohibited from using the Software under this Agreement. Any such use requires a separate commercial license from ARC Marine Ltd.
+
+All rights not expressly granted in this Section 3 are reserved by ARC Marine Ltd. The User obtains no ownership of any intellectual property by virtue of this Agreement, only the limited rights to use the Software as set forth above.
+
+4. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+The Software is licensed, not sold. All rights, title, and interest in and to the Software – including its compiled executable code (binary form), algorithms, structure and organization, user interface design, documentation, and branding – remain the exclusive property of ARC Marine Ltd. and/or its licensors.
+
+No source code is provided under this Agreement. Nothing in this Agreement shall be construed as a transfer of ownership or intellectual property rights to the User. Any unauthorized use, reproduction, or distribution of the Software or any of its components is strictly prohibited and may violate copyright, patent, and/or other laws. ARC Marine Ltd. reserves all rights not expressly granted to the User.
+
+5. ACCESS AND DISTRIBUTION
+
+The Software is provided by ARC Marine Ltd. as proprietary freeware for academic/research use. The User may download and use the Software from ARC Marine’s official distribution channels (including endorsed GitHub repositories) free of charge under this Agreement. Each User must accept and abide by this Agreement at the time of download or first use. The Software may not be redistributed or published by the User. In particular, the User shall not upload the Software to any public repository, mirror, or other distribution mechanism except as authorized by ARC Marine Ltd.
+
+The Software is provided in compiled executable (binary) form only. No source code is provided under this Agreement. Reverse engineering, decompiling, disassembling, or otherwise attempting to derive the source code or underlying algorithms of the Software is prohibited, except to the limited extent (if any) allowed by applicable law notwithstanding this restriction.
+
+ARC Marine Ltd. reserves the right to modify, replace, or withdraw the Software at any time without notice. ARC Marine Ltd. is under no obligation to provide maintenance, support, or updates for the Software. Any modifications, upgrades or new releases that are provided will be subject to the terms of this Agreement, unless they come with a separate license.
+
+6. RESTRICTIONS
+
+Without the prior written consent of ARC Marine Ltd., the User shall NOT, directly or indirectly:
+
+a. Modify or Derive – Modify, translate, adapt, or create derivative works based on the Software, or merge the Software (in whole or part) with any other software.
+b. Reverse Engineer – Reverse engineer, decompile, decrypt, disassemble, or otherwise attempt to discover the source code, algorithms, or underlying structure of the Software (except as expressly allowed under law despite this prohibition, in which case the User must first request needed information from ARC Marine under applicable statutes).
+c. Distribute or Sublicense – Distribute, publish, sublicense, rent, lease, lend, sell, assign, or otherwise transfer the Software or any copy of it to any third party. The User may not make the Software available on a network or in any manner that allows a third party to access or use the Software.
+d. Incorporate into Other Products – Incorporate or integrate the Software or any portion of it into any other product, library, application, service, or system. The Software may not be used as a component of a commercial product or service toolset.
+e. Commercial/Consulting Use – Use the Software or any results or output generated by the Software (including but not limited to calculated metrics such as VInt, AV, and ARV) in any commercial project or service. This means, by way of example, the Software and its outputs may not be used to perform consulting services for which a fee is charged, to generate reports or data for sale, or to support any business operations of a for-profit entity.
+f. Competitive Use – Use the Software to develop or enhance any product or service that competes with the Software, or use the Software as part of any effort to benchmark or evaluate it for competitive purposes (except for academic comparative research published publicly).
+g. Remove Notices – Remove, alter, or obscure any copyright, trademark, or other proprietary notices or labels on the Software or accompanying materials. This includes not removing ARC Marine’s branding or logo from any user interface or output it may display, except as permitted for attribution purposes.
+
+Any attempt to engage in any of the activities above (a–g) is a breach of this Agreement and an infringement of ARC Marine Ltd.’s rights. Such breach will result in automatic termination of the license (see Section 10) and may subject the User to legal liability, including injunctions and damages.
+
+7. USER FEEDBACK
+
+The User may voluntarily provide feedback, suggestions, ideas, or bug reports to ARC Marine Ltd. regarding the Software (“Feedback”). The User agrees that any Feedback is given freely and ARC Marine Ltd. may use, disclose, reproduce, modify, license, or otherwise exploit the Feedback in any product or service without any obligation or compensation to the User. Accordingly, the User hereby grants ARC Marine Ltd. a perpetual, irrevocable, worldwide, sublicensable, royalty-free license to use and incorporate any Feedback into ARC Marine’s products and services. The User warrants that to the best of their knowledge, Feedback provided does not include proprietary or confidential information of the User or any third party.
+
+8. NO WARRANTY; LIMITATION OF LIABILITY
+
+Disclaimer of Warranty: The Software is provided “AS IS”, without warranty of any kind. ARC Marine Ltd. and its affiliates expressly disclaim all warranties and conditions, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, satisfactory quality, accuracy, and non-infringement. ARC Marine does not warrant that the Software will meet the User’s requirements or that the operation of the Software will be uninterrupted or error-free. The User accepts all risks arising from use of the Software.
+
+Limitation of Liability: To the maximum extent permitted by applicable law, in no event shall ARC Marine Ltd. (or its directors, officers, employees, or agents) be liable for any indirect, special, incidental, consequential, exemplary, or punitive damages of any kind, or for any loss of profits, loss of data, business interruption, or loss of goodwill, arising out of or related to the use of or inability to use the Software, even if ARC Marine Ltd. has been advised of the possibility of such damages. In no case shall ARC Marine’s aggregate liability under this Agreement, whether in contract, tort or otherwise, exceed £0 (zero pounds sterling).
+
+Consumer Rights: Some jurisdictions do not allow the exclusion of certain warranties or the limitation of liability for certain types of damages. Nothing in this Section 8 is intended to exclude or limit any condition, warranty, right or liability which may not be lawfully excluded or limited. In such jurisdictions, the exclusions and limitations above shall apply to the greatest extent permitted by law.
+
+9. ATTRIBUTION AND NON-ENDORSEMENT
+
+The User agrees to acknowledge the use of the Hablab Software (ARC Marine Ltd.) in any academic publication, thesis, or conference presentation that incorporates results obtained with the Software. Any such attribution should follow standard scholarly practice (e.g., citation in a methods section or footnote acknowledging “Hablab software by ARC Marine Ltd. was used for analysis”). This attribution requirement helps inform the community and credits ARC Marine’s contribution.
+
+However, the User may not use the name “ARC Marine Ltd.”, “Hablab”, or any associated logos or trademarks to endorse or promote any product, service, or entity without prior written permission from ARC Marine Ltd. Aside from the factual academic attribution described above, nothing in this Agreement grants the User any rights to ARC Marine’s names or branding for marketing or publicity purposes.
+
+10. TERMINATION
+
+This Agreement and the license granted herein are effective from the moment the User accepts the terms (by downloading or using the Software) and shall remain in effect until terminated. The User may terminate this Agreement at any time by ceasing all use of the Software and destroying all copies in their possession.
+
+ARC Marine Ltd. may terminate this Agreement (and the User’s license) immediately without prior notice if the User breaches any provision of this Agreement. Upon any termination of this Agreement, the User must immediately discontinue all use of the Software, delete or destroy any copies of the Software (and any components or data derived from it) in the User’s possession or control, and certify compliance with this destruction obligation upon request.
+
+Termination of this Agreement will not limit any of ARC Marine Ltd.’s rights or remedies at law or in equity for prior breaches by the User. Sections relating to Ownership (Section 4), Restrictions (Section 6), Feedback (Section 7), No Warranty and Liability (Section 8), Attribution/Non-endorsement (Section 9), Governing Law (Section 11), and Miscellaneous (Section 12) shall survive termination of this Agreement, as well as any provisions which by their nature are intended to survive.
+
+11. GOVERNING LAW AND JURISDICTION
+
+This Agreement shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflict of law principles. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.
+
+The parties agree that the courts of England and Wales shall have exclusive jurisdiction over any dispute arising out of or in connection with this Agreement or the Software. The User consents to the personal jurisdiction of such courts. Notwithstanding the foregoing, ARC Marine Ltd. shall be entitled to seek injunctive or other equitable relief in any court of competent jurisdiction to prevent or stop a breach of this Agreement by the User.
+
+12. MISCELLANEOUS
+
+Severability: If any provision of this Agreement is held to be invalid or unenforceable by a court of competent jurisdiction, that provision shall be enforced to the maximum extent permissible and the remainder of this Agreement shall remain in full force and effect. The parties agree to negotiate in good faith a valid, enforceable substitute provision that most nearly effects the parties’ original intent.
+
+Entire Agreement: This Agreement constitutes the entire understanding and agreement between the User and ARC Marine Ltd. with respect to the Software and supersedes all prior or contemporaneous oral or written communications, proposals, and representations relating to the Software or its use. The User confirms that in entering into this Agreement, it has not relied on any statement or representation not expressly set out herein.
+
+No Waiver: The failure of ARC Marine Ltd. to enforce any right or provision of this Agreement shall not constitute a waiver of that or any other provision. A waiver is only effective if in writing and signed by an authorized representative of ARC Marine Ltd.
+
+No Assignment: The User may not assign or transfer this Agreement (or any rights or obligations hereunder) to any third party without the prior written consent of ARC Marine Ltd. Any attempted assignment in violation of the foregoing will be null and void. ARC Marine Ltd. may assign this Agreement at its discretion to an affiliate or in connection with a merger or acquisition of the Software.
+
+Headings: Section headings in this Agreement are for convenience of reference only and shall not affect the interpretation of the Agreement.
+
+End of License Agreement
