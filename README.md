@@ -1,4 +1,5 @@
-# Hablab
+# Hablab 
+[![DOI](https://zenodo.org/badge/1057306313.svg)](https://doi.org/10.5281/zenodo.17151439)
 
 Hablab is a research tool developed by **ARC Marine Ltd.** to analyse habitat space within a 3D structure and enable ecological research using characteristic metrics for the structure.
 
